@@ -11,7 +11,7 @@ var questionsArr = [
     {question:'During his first game as Seeker, Harry caught his first Golden Snitch with his hand.', 
     answer:false
     },
-    {question:'Harry, Ron, and Herminone are best friends.', 
+    {question:'Harry, Ron, and Herminone are friends.', 
     answer: true
     },
     {question:'J.K. Rowling said there will be seven Harry Potter Books.', 
